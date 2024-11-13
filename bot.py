@@ -47,4 +47,4 @@ async def 인증(ctx):
             else:
                 await ctx.send(f"`{guild.name}` 서버에 '유저' 역할이 없습니다. 서버 관리자에게 문의해주세요.")
 
-bot.run('MTIxMzY1MjE5MjgxMzI2MDgyMA.GHi-0V.0L5Ak7VJteusNT0q9FzBSVpXZ4K7qD1uuld6OQ')
+bot.run('토큰')
